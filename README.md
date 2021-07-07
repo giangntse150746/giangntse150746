@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 [![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can contact me via:
-#### [Email](mailto:giangntse150746@fpt.edu.vn)
-#### [Github](https://github.com/giangntse150746)
-#### [Facebook](fb.com/MashiMar.2001)
+#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="100" /> [Email](mailto:giangntse150746@fpt.edu.vn)
+#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" /> [Github](https://github.com/giangntse150746)
+#### <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="100" /> [Facebook](fb.com/MashiMar.2001)
 ##
 ##### ©2021 by GiangNTSE150746
