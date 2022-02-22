@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 #### - I am an undergraduate student at FPT University in Software Engineering.
 
 #### - I am currently focusing on:
-* Front-end: Angular, Bootstrap, ...
-* Back-end: Java Servlet, ASP.NET 5 Core with MVC or EF
+* Front-end: React Typescript, Angular, Bootstrap, ...
+* Back-end: Java Servlet, ASP.NET Core API, ...
 * Platform: Google Cloud
 
 [![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
