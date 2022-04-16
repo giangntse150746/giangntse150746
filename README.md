@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 ### About me:
 #### - I am an undergraduate student at FPT University in Software Engineering.
+#### - I am a full-time Front-end Developer at Vietjet Air Academy.
 
 #### - I am currently focusing on:
-* Front-end: React Typescript, Angular, Bootstrap, ...
-* Back-end: Java Servlet, ASP.NET Core API, ...
-* Platform: Google Cloud
+* Front-end: React Typescript/Javascript, Angular, Bootstrap, Wordpress...
+* Back-end: ASP.NET Core API/MVVM/MVC, Java Servlet MVC, ...
+* Platform: Firebase, Google Cloud, Github, Jira
 
 [![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
