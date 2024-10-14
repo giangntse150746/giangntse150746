@@ -8,10 +8,10 @@
 
 #### - About my technical skills:
 * __Front-end:__
-  - Web Development Framework: ReactJS, NextJS, Vue, NuxtJS, Angular, jQuery, ...
-  - UI Libraries: Semantic UI, Tailwind CSS, Kendo UI, Bootstrap, Syncfusion, ...
+  - Web Development Framework: VueJS, NuxtJS, Angular, ReactJS, NextJS, jQuery, ...
+  - UI Libraries: Tailwind CSS, Bootstrap, Kendo UI, Semantic UI, Ant Design, Syncfusion, ...
   - API Interactive: AJAX, Axios. 
-  - Mobile: Flutter.
+  - Mobile: Flutter, Get Widget UI Kit.
 * __Back-end:__ ASP.NET, Java Spring Boot, NodeJS.
 * __Platforms:__ Firebase, Google Cloud, Azure, Github, Gitlab.
 * __Project Management Tools:__ Jira, ClickUp, Trello, Notion.
