@@ -3,13 +3,13 @@
 
 ### About me:
 #### - ⚡ I am a graduate student at FPT University in Software Engineering (from 2022).
-#### - 🔭 I am a full-time Fullstack Developer at [Tourchain](https://tourchain.net) and available to work as a Front-end freelancer.
+#### - 🔭 I am a full-time Full Stack Developer at [Tourchain](https://tourchain.net) and available to work as a Front-end freelancer.
 #### - 🌱 I am currently training my algorithms knowledge on LeetCode.
 
 #### - About my technical skills:
 * __Front-end:__
   - Web Development Framework: VueJS, NuxtJS, Angular, ReactJS, NextJS, jQuery, ...
-  - UI Libraries: Tailwind CSS, Bootstrap, Kendo UI, Semantic UI, Ant Design, Syncfusion, ...
+  - UI Libraries: Tailwind, Bootstrap, Kendo UI, Semantic UI, Ant Design, Syncfusion, ...
   - API Interactive: AJAX, Axios. 
   - Mobile: Flutter, Get Widget UI Kit.
 * __Back-end:__ ASP.NET, Java Spring Boot, NodeJS.
