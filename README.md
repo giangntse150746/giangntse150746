@@ -11,7 +11,7 @@
   - Web Development Framework: VueJS, NuxtJS, Angular, ReactJS, NextJS, jQuery, ...
   - UI Libraries: Tailwind, Bootstrap, Material UI, Kendo UI, GSAP, Semantic UI, Ant Design, ...
   - API Interactive: AJAX, Axios, WebSocket. 
-  - Mobile: Flutter, Cupertino UI, GetWidget UI.
+  - Mobile Development: Flutter, Cupertino UI, GetWidget UI, React Native, Expo, React Native Elements.
 * __Back-end:__ ASP.NET, Java Spring Boot, NodeJS.
 * __Platforms:__ Firebase, Azure, Github, Gitlab.
 * __Project Management Tools:__ Jira, Click Up, Trello, Notion.
