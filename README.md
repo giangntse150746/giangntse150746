@@ -1,22 +1,33 @@
 ## Hi there 👋
-## ✨ Welcome to my profile, I am Giang N.T. ✨
+**✨ Welcome to my profile, I am Giang N.T. ✨**
 
-### 🙋🏻‍♂️ About me:
+## 🙋🏻‍♂️ About me:
 
-#### - ⚡ I am a graduate student at FPT University in Software Engineering (from 2022).
-#### - 🔭 I am a full-time Full Stack Developer at [Tourchain](https://tourchain.net) and available to work as a Front-end freelancer.
-#### - 🌱 I am currently training my algorithms knowledge on LeetCode.
+- 🎓 I graduated in Software Engineering from FPT University.
+- 💻 I'm working full-time as a Full-Stack Developer at Tour Chain, and I'm open to freelance opportunities.
+- 🧠 Currently, I'm leveling up my algorithm skills on LeetCode—always learning, always improving.
 
-### 🏋🏻 Technical skills:
+## 🧰 Tech Stack & Tools
+**I enjoy building clean, scalable apps across platforms—whether it's on the web or mobile. Here's what I usually work with:**
 
-* __Front-end:__
-  - Web Development Framework: VueJS, NuxtJS, Angular, ReactJS, NextJS, jQuery, ...
-  - UI Libraries: Tailwind, Bootstrap, Material UI, Kendo UI, GSAP, Semantic UI, Ant Design, ...
-  - API Interactive: AJAX, Axios, WebSocket. 
-  - Mobile Development: Flutter, Cupertino UI, GetWidget UI, React Native, Expo, React Native Elements.
-* __Back-end:__ ASP.NET, Java Spring Boot, NodeJS.
-* __Platforms:__ Firebase, Azure, Github, Gitlab.
-* __Project Management Tools:__ Jira, Click Up, Trello, Notion.
+### 🖥️ Front-End
+- Frameworks & Libraries: Vue.js, Nuxt.js, Angular, React.js, Next.js, jQuery
+- UI Toolkits: Tailwind CSS, Bootstrap, Material UI, Ant Design, Semantic UI, Kendo UI, GSAP
+- API Handling: Axios, AJAX, WebSocket
+
+### 📱 Mobile Development
+- Frameworks: Flutter, React Native, Expo
+- UI Components: Cupertino UI, GetWidget, React Native Elements
+
+### 🛠️ Back-End
+- Languages & Frameworks: ASP.NET, Java Spring Boot, Node.js
+
+### ☁️ Platforms & DevOps
+- Platforms: Firebase, Microsoft Azure
+- Version Control: GitHub, GitLab
+
+### 📋 Project & Team Collaboration
+- Tools: Jira, ClickUp, Trello, Notion
 
 ### 📬 You can contact me via:
 
@@ -49,4 +60,7 @@
 
 ##
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=giangntse150746&theme=dark)](https://git.io/streak-stats)
+
+##
 ##### ©2021 by Giang, N.T.
