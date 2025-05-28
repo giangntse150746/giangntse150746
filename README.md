@@ -29,6 +29,17 @@
 ### 📋 Project & Team Collaboration
 - Tools: Jira, ClickUp, Trello, Notion
 
+### ⛳ My Playground:
+
+<div align="left">
+  <a href="https://codepen.io/saoranngu" target="blank" rel="noreferrer" title="CodePen">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="42" class="rounded" />
+  </a>
+  <a href="https://dev.to/truonggiangne" target="blank" rel="noreferrer" title="CodePen">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="42" class="rounded" />
+  </a>
+</div>
+
 ### 📬 You can contact me via:
 
 <div align="left">
@@ -43,16 +54,17 @@
   <a  href="https://www.facebook.com/giang0304" target="blank" rel="noreferrer" title="Facebook">
     <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="42" class="rounded" />
   </a>
-  <!--   <img width=8 /> -->
-<!--   <a href="https://codepen.io/saoranngu" target="blank" rel="noreferrer" title="CodePen">
-    <img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="42" class="rounded" />
-  </a> -->
 </div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giangntse150746&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ##
 
 ### ℹ️ My stats:
+
 [![GiangNTSE150746's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangntse150746&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=giangntse150746&theme=dark)](https://git.io/streak-stats)
 
 ##
 
@@ -60,7 +72,4 @@
 
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=giangntse150746&theme=dark)](https://git.io/streak-stats)
-
-##
 ##### ©2021 by Giang, N.T.
