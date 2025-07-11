@@ -20,10 +20,10 @@
 - UI Components: Cupertino UI, GetWidget, React Native Elements
 
 ### 🛠️ Back-End
-- Languages & Frameworks: ASP.NET, Java Spring Boot, Node.js
+- Languages & Frameworks: Express.js, NestJS, ASP.NET
 
 ### ☁️ Platforms & DevOps
-- Platforms: Firebase, Microsoft Azure
+- Platforms: Firebase, Microsoft Azure, AWS
 - Version Control: GitHub, GitLab
 
 ### 📋 Project & Team Collaboration
